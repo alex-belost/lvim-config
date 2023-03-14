@@ -1,0 +1,10 @@
+{
+  "eslint.enable": true,
+  "eslint.format.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.lintTask.enable": true,
+  "eslint.validate": [
+    "typescript",
+    "javascript"
+  ],
+}

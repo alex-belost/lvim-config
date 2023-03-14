@@ -1,0 +1,10 @@
+{
+  "Log current line": {
+    "prefix": ".log",
+    "body": [
+      ":silent !clear\r",
+      "console.log('${TM_CURRENT_LINE/(.*)/:silent !clear\r$1/g}')"
+    ],
+    "description": "Wrap current line to console log"
+  }
+}

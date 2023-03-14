@@ -1,0 +1,13 @@
+{
+  "Create module": {
+    "prefix": "module",
+    "body": [
+      "local M = {}",
+      "",
+      "$1",
+      "",
+      "return M"
+    ],
+    "description": "Create empty lua module"
+  }
+}

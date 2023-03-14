@@ -1,0 +1,9 @@
+{
+  "css.validate": true,
+  "css.format.enable": true,
+  "css.trace.server": "messages",
+  "css.completion.completePropertyWithSemicolon": true,
+  "css.completion.triggerPropertyValueCompletion": true,
+  "css.hover.references": true,
+  "css.hover.documentation": true
+}
